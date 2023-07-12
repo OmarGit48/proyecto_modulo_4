@@ -1,4 +1,4 @@
-## Proyecto_Modulo_4
-#  El API pokemon
+# Proyecto_Modulo_4
+##  The pokemon API
 
-1. Analizando los pasos y requisitos del código
+1. Analyzing and reviewing the requierements, and the example
