@@ -10,7 +10,7 @@
 7. Is later and my english is not excelen, tomorrow will change language
 8. my results are so good
 9. this is the image to get to the API
-![Magikarp](image.png) I hopw this is correct (this is incorrect, don't work)
+![Magikarp statics](image.png) I hopw this is correct (this is work) ![Magikarp](image-1.png)
 10. I up tow images of diferent form: first i take a screen shot and paste in the README file and i give 
     name, the second form is from the file in my OS i put in the file of my repository
 11. I have a file text with the library with all weed for the code
