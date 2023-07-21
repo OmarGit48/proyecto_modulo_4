@@ -17,3 +17,6 @@
 12. The images are a examples for the code's answer
 13. I forget to push and commit every change to the repositry
 14. Now i know i have it, thank you
+15. if you want to up potos teh best form is paste in the README file like this:
+![photo example](image-2.png)
+16. thangs total
